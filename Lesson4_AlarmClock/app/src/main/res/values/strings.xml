@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson4_AlarmClock</string>
+    <string name="btnSetAlarmLabel">Set alarm</string>
+</resources>
