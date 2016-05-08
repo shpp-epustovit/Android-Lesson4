@@ -20,11 +20,11 @@
     <ToggleButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Alarm On/Off"
         android:id="@+id/alarmToggle"
-        android:layout_centerHorizontal="true"
+        android:onClick="onToggleClicked"
+        android:layout_marginTop="34dp"
         android:layout_below="@+id/alarmTimePicker"
-        android:onClick="onToggleClicked" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
